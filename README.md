@@ -1,5 +1,5 @@
 ### Hello there 👋
-I am <b>Jorge L. Cardoso</b>, Electrical Engineering and Software Engineering student. <br> Currently, I am focused on improving my knowledge in ​​web development area.
+I am <b>Jorge L. Cardoso</b>, Electrical Engineer and Software Engineering student. <br> Currently, I am focused on improving my knowledge in ​​web development area.
 <div style="display: inline_block"> 
   <img align="center" title="Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
   <img align="center" title="Javascript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
